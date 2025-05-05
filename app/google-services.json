@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935961392887",
+    "project_id": "login-udb-firebase",
+    "storage_bucket": "login-udb-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935961392887:android:b5b3e00b7541e92cf605f2",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935961392887-gu9n7ulkqa7g3s2g9cnkcpq6kv5rqjob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sv.edu.udb.login_firebase",
+            "certificate_hash": "6d7a9602e3b39c6b2dd4e49b20e03805e30372d1"
+          }
+        },
+        {
+          "client_id": "935961392887-nvum42h3b4d5ddnsndaq58jdc3krb640.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZylBphfvmU6YtWTUBV4lqA2D8ENmvx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935961392887-nvum42h3b4d5ddnsndaq58jdc3krb640.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
